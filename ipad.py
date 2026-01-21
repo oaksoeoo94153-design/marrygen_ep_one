@@ -1,6 +1,6 @@
 print("genfoxiosshop")
 print("Min ga lar pr shint")
-ipadsecondmodel= ["ipadm1","ipadm2","ipadm3","ipadm4","ipadm5"]
+ipadsecondmodel= ["ipadm1","ipadm2","ipadm3","ipadm4","ipadm6"]
 # print(ipadsecondmodel[0])
 # print(ipadsecondmodel[1])
 # print(ipadsecondmodel[2])
@@ -44,14 +44,14 @@ elif  userchoicemodel=="ipadm4":
     if userchoicecolor=="blue":
         userchoicecondition=(input("brandnew"))    
         print("brand new ipad m4 zay=52thein")
-if userchoicemodel=="ipadm5":
+if userchoicemodel=="ipadm6":
     userchoicecolor=input("blue,black,grey")
     if userchoicecolor=="blue":
-        print("ipadm5 pre order price 65thein")
+        print("ipadm6 pre order price 65thein")
     elif userchoicecolor=="black":
-         print("ipadm5 pre order price 65thein")
+         print("ipadm6 pre order price 65thein")
     elif userchoicecolor=="grey":
-           print("ipadm5 pre order price 65thein")
+           print("ipadm6 pre order price 65thein")
 
       
       
